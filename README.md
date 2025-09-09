@@ -2,7 +2,7 @@
 
 ## Task 1 - Data Pipeline Automation
 
-✅ Automated data preprocessing, transformation, and loading using Python.
+ Automated data preprocessing, transformation, and loading using Python.
 
 ### Tools Used
 - Pandas
